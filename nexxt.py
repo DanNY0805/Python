@@ -22,27 +22,11 @@ e = ".....This is left...."
 print(e + w)
 print(" ")
 
-#my_name = 'Vhahangwele Netshilonwe'
-#my_age = 24
-#my_height = 155 # centimetres
-#my_weight = 100 #kilograms
-#my_eyes = 'Brown'
-#my_teeth = 'White'
-#my_hair = 'Black'
 
- #print("Let's talk about %s" % my_name)
-#print ("she is %d centimetres tall" % my_height)
-#print("she is %d kg heavy" % my_weight)
-#print("That's a bit too heavy (she is working on it though)")
-#print("She's got %s eyes (My brown eyed girl) and %s hair" %(my_eyes , my_hair))
-#print("Her teeth are %s they are pretty decent really." % my_teeth)
-#print("If I add %d, %d, and %d I get %d" % (my_age, my_height, my_weight, my_age + my_height + my_weight))
-print(" ") 
-#
 
 name = 'Vhahangwele Netshilonwe'
-age = 24
-height = 155 # centimetres
+age = 25
+height = 157 # centimetres
 weight = 100 #kilograms
 eyes = 'Brown'
 teeth = 'White'
